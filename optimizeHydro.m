@@ -24,9 +24,9 @@
 %           - Power
 %           - nu_ptop optimized PTO damping
 %-------------------------------------------------------------------------%
-%   Article: Nguyen et al (2021) - Optimizing power generation of a 
-%                                  bottom-raised oscillating surge wave 
-%                                  energy converter using a theoretical model
+%   Article: Nguyen et al (2024) - Theoretical modeling of a bottom-raised 
+%			           oscillating surge wave energy converter 
+%			           structural loadings and power performances
 %
 %   Written by: Jessica Nguyen, PhD 
 %               University of Massachusetts Amherst
