@@ -2,9 +2,9 @@
 %   Script: Semi-analytical and analytical method to evaluate hydrodynamic 
 %           coefficients (added mass and damping) of an surface piercing OWEC.
 %
-%   Article: Nguyen et al (2021) - Optimizing power generation of a 
-%                                  bottom-raised oscillating surge wave 
-%                                  energy converter using a theoretical model
+%   Article: Nguyen et al (2024) - Theoretical modeling of a bottom-raised 
+%			                             oscillating surge wave energy converter 
+%			                             structural loadings and power performances
 %
 %   Inputs: Environmental properties: T - wave periods
 %                                     Aw - Wave height
